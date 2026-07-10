@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"name": "goit-js-hw-07",
+			"path": "."
+		},
+		{
+			"name": "js",
+			"path": "../javascript-homework/v3/07/src/js"
+		},
+		{
+			"name": "css",
+			"path": "../javascript-homework/v3/07/src/css"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "goit-js-hw-07"
+	}
+}
